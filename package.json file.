@@ -1,0 +1,15 @@
+{
+  "name": "letta-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot powered by Letta memory",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@letta-ai/letta-client": "^1.7.9",
+    "dotenv": "^16.4.5"
+  }
+}
